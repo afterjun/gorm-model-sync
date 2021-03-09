@@ -1,0 +1,3 @@
+#mysql
+db:
+  address: "xx:xx@tcp(127.0.0.1:xxx)/xxx?charset=utf8mb4&parseTime=True&loc=Local"
